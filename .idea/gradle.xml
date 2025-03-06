@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/fizzbuzz" />
+            <option value="$PROJECT_DIR$/greeter" />
             <option value="$PROJECT_DIR$/spring" />
           </set>
         </option>

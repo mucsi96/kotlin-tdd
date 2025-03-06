@@ -1,2 +1,2 @@
 rootProject.name = "code-dojo"
-include("spring", "fizzbuzz")
+include("spring", "fizzbuzz", "greeter")
